@@ -7,7 +7,7 @@
 4-Creo un proyecto en directorio<br>
 ![image](https://user-images.githubusercontent.com/113994483/202228004-edb23612-8318-49e9-b124-6cc55fdde368.png)<br>
 5-Se crea un proyecto dentro de un subpoyecto<br>
-![image](https://user-images.githubusercontent.com/113994483/202229213-0c8ec9e1-3f14-4a2e-bf54-ec7811a03c50.png)<br>
+
 6-
 
 
